@@ -1,5 +1,5 @@
 h1 align="center">Hola 👋, soy Jefferson Steven Rodríguez Rueda</h1>
-Me gusta el desarrollo Backend.
+<h3 align="center">Me gusta el desarrollo Backend.</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=stevenheroku&label=Profile%20views&color=0e75b6&style=flat" alt="stevenheroku" /> </p>
 
